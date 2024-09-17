@@ -13,3 +13,6 @@ ler o arquivo e estruturar para buscas
 Estabelecer uma esquemática de lotes e grupos
 Efetuar requisições 
 salvar os dados.   
+
+
+![Captura de tela 2024-09-17 175831](https://github.com/user-attachments/assets/9475e662-1a3a-4b2e-affd-610ab19a1744)
